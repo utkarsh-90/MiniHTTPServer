@@ -58,12 +58,6 @@ Responses: `Content-Type: text/plain; charset=utf-8`.
 
 Extend routing in `Router.route()`: add path checks and return `RouteResult(statusCode, reasonPhrase, body)`.
 
-## Code style
-
-- **Comments:** One-line class/method summary where useful.
-- **Javadoc:** Only when the contract isn’t obvious.
-- **Tone:** Direct and neutral.
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
