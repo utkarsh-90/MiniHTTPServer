@@ -1,4 +1,4 @@
-# MiniJava HTTP Server
+# Mini HTTP Server
 
 Plain Java HTTP server: TCP listener, thread pool, path routing, structured logging. No frameworks. Run locally.
 
